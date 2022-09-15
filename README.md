@@ -1,12 +1,12 @@
-![](https://img.shields.io/badge/Oldagram-blueviolet)
+![](https://img.shields.io/badge/Portfolio-blueviolet)
 
-# Oldagram
-It's a clone of Instagram built with HTML5 & CSS
+# Portfolio Template
+It's a basic layout for your portfolio which you can use for developing your portfolio website
 
-![screenshot](images/preview-oldagram.png)
+![screenshot](preview-portfolio.png)
 
 ## [LiveDemo] 
-(https://guileless-otter-aba18a.netlify.app)
+(https://clinquant-banoffee-dd6c83.netlify.app)
 
 ## Built With
 
@@ -23,10 +23,10 @@ Basic knowledge of HTML, CSS.
 ### Setup
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-[Download the ZIP from this location](https://github.com/Fatima-hub333/Oldagram/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/Fatima-hub333/portfolio-template/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-git clone https://github.com/Fatima-hub333/Oldagram.git
+git clone https://github.com/Fatima-hub333/portfolio-template.git
 ```
 
 - Once the files are on your machine, open the _Portfolio_ folder in [Visual Studio Code](https://code.visualstudio.com/).
@@ -53,7 +53,7 @@ The following tools help make easier to work with sample code.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Fatima-hub333/Oldagram/issues).
+Feel free to check the [issues page](https://github.com/Fatima-hub333/portfolio-template/issues).
 
 ## Show your support
 
